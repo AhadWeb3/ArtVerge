@@ -10,19 +10,19 @@ NFTAuction  0x2e55Fe8Effb3371265E049FaD51e61E27ad7A273
 https://explorer.testnet.mantle.xyz/address/0x2e55Fe8Effb3371265E049FaD51e61E27ad7A273
 Done in 130.10s.
 
+--------------
+# scrollSepolia: 
 
 yarn hardhat run scripts/deploy.ts --network scrollSepolia
 
---------------
 NFTMarketplace  0xcA446dF8e98374fb11e902A44a9F49644539c9E3
 NFTAuction  0x7C011cf1AA1475850C558c999f11515E88A757c5
 https://sepolia-blockscout.scroll.io/address/0xcA446dF8e98374fb11e902A44a9F49644539c9E3#code
+
 ---------------------------------------------------------------
-Arbi:
+
+# Arbi:
 yarn hardhat run scripts/deploy.ts --network agor
 
-C:\Users\AbdulAhad\Downloads\eth2\ArtVerge\custodiancode-contract>yarn hardhat run scripts/deploy.ts --network agor
-yarn run v1.22.19
-$ C:\Users\AbdulAhad\Downloads\eth2\ArtVerge\custodiancode-contract\node_modules\.bin\hardhat run scripts/deploy.ts --network agor
 NFTMarketplace  0x460995f53198f20d5D98e9FFB59E159f90015d55
 https://goerli.arbiscan.io/address/0xec660E0e1a746582A6711309E92fd07f007140c3   
